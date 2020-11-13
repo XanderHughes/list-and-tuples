@@ -1,0 +1,5 @@
+def FirstLast():
+    numbers = [1, 6, 8, 9, 4, 3]
+    print("The first and last elements are:" ,numbers[0],numbers[-1])
+
+FirstLast()
