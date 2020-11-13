@@ -1,5 +1,5 @@
 def FirstLast():
-    numbers = [1, 6, 8, 9, 4, 3]
-    print("The first and last elements are:" ,numbers[0],numbers[-1])
+    userChoice = input ("Enter a word you would like the first and last element of:")
+    print("The first and last elements are:" ,userChoice[0],userChoice[-1])
 
 FirstLast()
